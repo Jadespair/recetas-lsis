@@ -1,2 +1,1 @@
-Recetario gourmet - edicion 2026
-
+Recetario de cocina mediterranea
