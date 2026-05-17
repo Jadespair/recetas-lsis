@@ -1,1 +1,2 @@
-Mi recetario personal
+Recetario gourmet - edicion 2026
+
