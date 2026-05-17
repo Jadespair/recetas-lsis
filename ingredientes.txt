@@ -2,3 +2,6 @@ arroz
 leche
 sal
 pimienta
+tomate
+ketchup
+
