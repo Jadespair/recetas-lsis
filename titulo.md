@@ -1,1 +1,2 @@
-Mi recetario personal
+Recetario de cocina mediterranea
+
